@@ -1,5 +1,7 @@
 # Histrix demo
 
+The application calls the [simple-service](https://github.com/spring-microservices/simple-service) to get a list of strings.
+
 See [Hystric configuration](https://github.com/Netflix/Hystrix/wiki/Configuration "Hystrix Config").
 
 
